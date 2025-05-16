@@ -18,3 +18,4 @@ Machine     : AMD64
 Processor   : Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
 CPU cores   : 8
 Architecture: 64bit
+IDE: Jupyter Notebook
